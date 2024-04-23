@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd RESTful-posts
+  cd SocialMedia
 ```
 
 Install dependencies
