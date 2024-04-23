@@ -10,7 +10,7 @@ We implement RESTful APIs to create this.
 Clone the project
 
 ```bash
-  git clone https://github.com/AdishtJaglan/RESTful-posts.git
+  git clone https://github.com/Tayyab-Raza/SocialMedia.git
 ```
 
 Go to the project directory
